@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>DexLog</title>
     <link>/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on DexLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 10:07:00 +0700</lastBuildDate>
@@ -12,13 +12,14 @@
     
     
     <item>
-      <title>Shigu Insurrection</title>
+      <title>Shigu Insurrection [01]: Background</title>
       <link>/posts/shigu-insurrection/</link>
       <pubDate>Mon, 23 Mar 2020 10:07:00 +0700</pubDate>
       
       <guid>/posts/shigu-insurrection/</guid>
       <description>When the red overtakes the blue, it seems like that all hope is lost. But can the blue team get it together and restore the balance within?
-Introduction This is a reflection of my current state of mind. A rewind to the moments in the last 6 months. Tides come and go, high and low. Rainbow cycles color from blue to red, and back again. A glimpse of sapphire pass through.</description>
+WARNING: This article may be quite long. Skip here to read the summary.
+Introduction This is a reflection of my current state of mind. A rewind to the moments in the last 6 months. Tides come and go, high and low. Rainbow cycles color from blue to red, and back again.</description>
     </item>
     
     <item>
